@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| | I am using | I have tipped my toes in | I will learn |
+I like engineering, technologies, art, and sophia.
+
+| | I am using | I have dipped my toes in | I will learn |
 | --- | --- | --- | --- |
-| Languages | [![My Skills](https://skillicons.dev/icons?i=python,java,c)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev) | |
+| Languages | [![My Skills](https://skillicons.dev/icons?i=python,java,c)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=dart)](https://skillicons.dev) | |
 | Web Development | [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,flask)](https://skillicons.dev) | | |
-| Tools | [![My Skills](https://skillicons.dev/icons?i=git,vim,vscode)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=cmake,eclipse)](https://skillicons.dev) | |
+| Tools | [![My Skills](https://skillicons.dev/icons?i=linux,git,vim,vscode)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=cmake,eclipse,flutter)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=qt)](https://skillicons.dev) |
 | Machine Learning | | [![My Skills](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev) | |
 | Academic | [![My Skills](https://skillicons.dev/icons?i=latex)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=matlab)](https://skillicons.dev) | |
 | Visual Design | | [![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev) |
